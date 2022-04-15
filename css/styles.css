@@ -98,6 +98,7 @@ p{
         text-align: center;
     }
     .title-image{
+        margin: 20px;
         position: static;
         transform: rotate(0);
     }
